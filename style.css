@@ -1,0 +1,192 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: 'Arial', serif;
+}
+
+.title{
+    text-align: center;
+    font-size: 68px;
+    color: #778899;
+    margin: 100px 0 50px 0;
+}
+
+.nav{
+    background-color: #6699cc;
+    color: #ffffff;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.nav > li{
+    display: inline-block;
+    padding: 0 20px 0 25px;
+}
+
+.nav > li > a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.nav > li > a:hover{
+    color: #778899;
+}
+
+.logo{
+    color: #ffffff;
+    float: left;
+    padding-left: 25px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.logo > a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.banner{
+    width: 100%;
+    display: block;
+}
+
+.banner > .banner-image{
+    width: 100%;
+    display: block;
+}
+
+.team{
+    color:#778899;
+    font-size: 36px;
+}
+
+.team1{
+    width: 250px;
+    border: 1px solid #778899;
+    margin: 20px 10px;
+    padding: 0 5px
+    float: left;
+}
+
+.team1 > p{
+    font-size: 14px;
+    color: #636363;
+    max-width: 250px;
+    
+}
+
+.team1{
+    width: 300px;
+    margin: 10 auto;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #6699cc;
+    color: #ffffff;
+    padding: 10px 0;
+    margin: 0 -6px;
+}
+
+.image{
+    max-width: 300px;
+    max-height:280px;
+    margin: 15px 0 0 0;
+    
+}
+
+.heading{
+    text-align: center;
+    font-size: 25px;
+    color: #778899;
+    margin: 100px 0 50px 0;
+}
+
+.about{
+    color:#778899;
+    font-size: 36px;
+    max-width: 100%;
+}
+
+.about1{
+    width: 320px;
+    border: 1px solid #778899;
+    margin: 30px 20px;
+    padding: 0px 5px
+    float: left;
+}
+
+.about1 > p{
+    font-size: 14px;
+    color: #778899;
+    max-width: 250px;
+    
+}
+
+.about1{
+    width: 320px;
+    margin: 10 auto;
+    display: inline-block;
+}
+
+.image_hover{
+    max-width: 300px;
+    margin: 15px 5px 5px 5px;
+}
+
+.image_hover:hover{
+    opacity:0.2;
+}
+
+.paragraph{
+    max-width: 1000;
+    font-size: 24px;
+    color: #778899;
+    text-align: center;
+    margin: 5px 0 0 0;
+}
+
+.link{
+    color: #ffffff;
+    float: center;
+    font-size: 16px;
+}
+
+.link > a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.link > a:hover{
+    color: #6699cc;
+}
+
+.documents{
+    color:#778899;
+    font-size: 24px;
+    max-width: 100%;
+}
+
+.documents > a{
+    text-decoration: none;
+    color: #778899;
+}
+
+.documents >a:hover{
+    color: #6699cc;
+}
+
+
+
+
+
+
+
+
+
+
+
