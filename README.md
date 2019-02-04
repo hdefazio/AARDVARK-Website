@@ -1,5 +1,4 @@
-# aardvark.github.io
+#AARDVARK
 website for the AARDVARK project 
 
-link: [website link](https://countingshe3p.github.io/AARDVARK/index.html) 
-countingshe3p.github.io/AARDVARK
+[website link: ](https://countingshe3p.github.io/AARDVARK/index.html) countingshe3p.github.io/AARDVARK
